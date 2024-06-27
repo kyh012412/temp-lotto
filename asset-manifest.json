@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/kyh012412.github.io/toys/lottery/static/css/main.6c3a8a6c.css",
+    "main.js": "/kyh012412.github.io/toys/lottery/static/js/main.5e19d51b.js",
+    "index.html": "/kyh012412.github.io/toys/lottery/index.html",
+    "main.6c3a8a6c.css.map": "/kyh012412.github.io/toys/lottery/static/css/main.6c3a8a6c.css.map",
+    "main.5e19d51b.js.map": "/kyh012412.github.io/toys/lottery/static/js/main.5e19d51b.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.6c3a8a6c.css",
+    "static/js/main.5e19d51b.js"
+  ]
+}
